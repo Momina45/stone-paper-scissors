@@ -29,5 +29,5 @@ A simple and interactive **Stone Paper Scissors** (Rock Paper Scissors) game bui
 
 ## Live Demo
 
-[View Project Live](https://Momina45.github.io/stone-paper-scissors)
+[View Project Live](https://momina45.github.io/stone-paper-scissors)
 
